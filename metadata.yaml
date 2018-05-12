@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '41761'
     url: http://www.gutenberg.org/2009/agents/41761
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42589#Homestead--13-A-Complete-History-of-the-Struggle-of-July-1892-between-the-Carnegie-Steel-Comp_
 gutenberg_issued: '2013-04-24'
 gutenberg_type: Text
 identifiers:
