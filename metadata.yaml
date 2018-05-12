@@ -1,0 +1,31 @@
+_repo: Homestead--13-A-Complete-History-of-the-Struggle-of-July-1892-between-the-Carnegie-Steel-Comp__42589
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42589-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Burgoyne, Arthur Gordon
+    aliases:
+    - Burgoyne, Arthur G.
+    - Burgoyne, A. G. (Arthur Gordon)
+    deathdate: 1914
+    gutenberg_agent_id: '41761'
+    url: http://www.gutenberg.org/2009/agents/41761
+description: ''
+gutenberg_issued: '2013-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42589'
+  lccn: 07029948
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Homestead Strike, Homestead, Pa., 1892'
+title: "Homestead\r\nA Complete History of the Struggle of July, 1892, between the\
+  \ Carnegie-Steel Company, Limited, and the Amalgamated Association of Iron and Steel\
+  \ Workers"
+url: http://www.gutenberg.org/ebooks/42589
